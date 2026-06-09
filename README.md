@@ -1,4 +1,4 @@
-# BrewConnect
+# Lets connect
 
 BrewConnect is a social discovery platform designed to help you connect with like-minded individuals nearby. By combining location-based proximity and machine-learning interest matching, BrewConnect surfaces the most relevant potential connections around you, whether you're at a coffee shop, an airport, or a co-working space. It also features real-time messaging using WebSockets.
 
